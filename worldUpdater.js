@@ -9,7 +9,7 @@ const axios = require('axios');
 const JSZip = require('jszip');
 
 /** GitHub source */
-const GITHUB_OWNER = 'emagi';
+const GITHUB_OWNER = 'nuadaxxx';
 const GITHUB_REPO  = 'eq2emu-database';
 const GITHUB_PATH  = 'worldtables_with_data';
 
